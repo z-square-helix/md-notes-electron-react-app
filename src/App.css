@@ -1,0 +1,54 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 12vmin;
+  position: absolute;
+  top: 25px;
+}
+
+.App-header {
+  background-color: #1f2833;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ace_editor {
+  background-color: #3d344b !important;
+  color: #f4f2f3;
+}
+
+.ace_editor .ace_gutter {
+  background: #1f2833;
+  color: #c2cad0;
+}
+
+.ace_editor .ace_list {
+  color: #bea6ff;
+}
+
+.ace_editor .ace_gutter-active-line {
+  background-color: #66fcf1;
+}
+
+.ace_editor .ace_heading {
+  color: #ffd1dc;
+}
+
+.ace_editor .ace_cursor {
+  color: #f4dc32;
+}
+
+.ace_editor .ace_string {
+  color: #26ff26;
+}
